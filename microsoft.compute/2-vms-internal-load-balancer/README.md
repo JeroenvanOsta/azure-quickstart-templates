@@ -1,0 +1,2 @@
+## 2-vms-internal-load-balancer
+This template allows you to create 2 Virtual Machines in a VNET under an internal Load balancer and configure a load balancing rule on Port 80. This template also deploys a Storage Account, Virtual Network, Public IP address, Availability Set and Network Interfaces.
