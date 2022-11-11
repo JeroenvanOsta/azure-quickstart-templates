@@ -8,8 +8,6 @@ param adminUsername string
 @secure()
 param adminPassword string
 
-
-
 @description('Storage Account type for the VM and VM diagnostic storage')
 @allowed([
   'Standard_LRS'
